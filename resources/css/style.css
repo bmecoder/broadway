@@ -10,7 +10,8 @@ html {
 .header {
   font-size: 70px;
   font-weight: bold;
-  color: white
+  color: white;
+  background-image: url("background.png");
 }
 
 .link {
