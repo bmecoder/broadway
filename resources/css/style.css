@@ -4,12 +4,43 @@ html {
 }
 
 .Bighead {
-  background: "./background.png";
+  background-image: image(./background.png);
 }
 
 .header {
   font-size: 70px;
   font-weight: bold;
   color: white
+}
 
+.link {
+  font-size: 18px;
+  color: white;
+}
+
+.bodyheader {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.subheader {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.subheader2 {
+  font-size:23px
+  font-weight: bold;
+  color: white;
+  background-image: image(./background.png);
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
