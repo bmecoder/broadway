@@ -3,10 +3,13 @@ html {
   font-family: Helvetica;
 }
 
+.Bighead {
+  background-image: image(background.png);
+}
+
 .header {
   font-size: 70px;
   font-weight: bold;
   color: white
-  background-image: image("background.png");
-  
+
 }
