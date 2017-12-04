@@ -4,7 +4,7 @@ html {
 }
 
 .Bighead {
-  background-image: url("./background.png");
+  background-image: url("background.png");
 }
 
 .header {
@@ -36,7 +36,7 @@ p {
   font-size:23px;
   font-weight: bold;
   color: white;
-  background-image: url("./background.png");
+  background-image: url("background.png");
 }
 
 .footer {
