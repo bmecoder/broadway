@@ -4,7 +4,7 @@ html {
 }
 
 .Bighead {
-  background-image: image(./background.png);
+  background-image: url("./background.png");
 }
 
 .header {
@@ -33,10 +33,10 @@ p {
 }
 
 .subheader2 {
-  font-size:23px
+  font-size:23px;
   font-weight: bold;
   color: white;
-  background-image: image(./background.png);
+  background-image: url("./background.png");
 }
 
 .footer {
