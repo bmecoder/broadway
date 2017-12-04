@@ -4,13 +4,15 @@ html {
 }
 
 
-body {
-  background-image: url("background.png");
-}
+
 .header1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+
+.header2 {
+  background-image: url("background.png");
 }
 
 .link {
@@ -38,6 +40,7 @@ p {
   font-size:23px;
   font-weight: bold;
   color: white;
+  background-image: url("background.png");
 }
 
 .footer {
