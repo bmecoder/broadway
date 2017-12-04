@@ -1,17 +1,15 @@
 html {
   text-align: center;
   font-family: Helvetica;
-}
-
-.bighead {
   background-image: url("background.png");
 }
+
+
 
 .header1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-image: url("background.png");
 }
 
 .link {
@@ -22,22 +20,24 @@ html {
 .bodyheader {
   font-size: 32px;
   font-weight: bold;
+  background-color: white;
 }
 
 .subheader {
   font-size: 23px;
   font-weight: bold;
+  background-color: white;
 }
 
 p {
   font-size: 14px;
+  background-color: white;
 }
 
 .subheader2 {
   font-size:23px;
   font-weight: bold;
   color: white;
-  background-image: url("background.png");
 }
 
 .footer {
