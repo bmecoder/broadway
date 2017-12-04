@@ -1,11 +1,12 @@
 html {
   text-align: center;
   font-family: Helvetica;
-  background-image: url("background.png");
 }
 
 
-
+body {
+  background-image: url("background.png");
+}
 .header1 {
   font-size: 70px;
   font-weight: bold;
