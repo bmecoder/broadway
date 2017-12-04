@@ -15,6 +15,7 @@ html {
 .link {
   font-size: 18px;
   color: white;
+  background-image: url("background.png");
 }
 
 .bodyheader {
